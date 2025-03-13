@@ -1,0 +1,17 @@
+<!-- cd /path/to/your/project
+git init
+git remote add origin https://github.com/your-username/CHAT.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main  
+
+----------------------
+if error
+----------------------
+git remote -v
+
+git remote set-url origin https://github.com/Rishikaggarwal/CHAT.git
+
+git push -u origin main
+-->
